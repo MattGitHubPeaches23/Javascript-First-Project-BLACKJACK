@@ -1,0 +1,66 @@
+body{
+    background-color: green;
+    color:lightblue;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    font-display: #333;
+
+    /* Same as above */
+    font: normal 16px Arial, Helvetica, sans-serif;
+
+    line-height: 1.6em;
+    margin: 0;
+}
+#dlrCrds{
+    color: #333;
+    font-family: Tahoma;
+    font-weight:800;
+    font-style:italic;
+    text-decoration: underline;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    word-spacing: 1em;
+}
+#imageDealer{
+    text-align: center;
+}
+#imageID2{
+    text-align: center;
+
+}
+#plrCrds{
+    color: #333;
+    font-family: Tahoma;
+    font-weight:800;
+    font-style:italic;
+    text-decoration: underline;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    word-spacing: 1em;
+}
+.button{
+    background-color: #333;
+    color:#ffff;
+    padding: 10px 15px;
+    border: none;
+}
+.btn{
+    background-color: black;
+    color:rgb(24, 192, 47);
+    padding: 15px 25px;
+    border: none;
+    font:bold;
+    font-size: 30px;
+}
+
+.button:hover{
+    background: lightcoral;
+    color: white;
+}
+
+.btn:hover{
+    background:lightcoral;
+    color: black;
+}
